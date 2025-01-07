@@ -141,5 +141,6 @@ int main()
     cout << "enter the number";
     cin >> n;
     print8(n);
+    print8(n);
     print9(n);
 }
