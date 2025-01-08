@@ -143,4 +143,5 @@ int main()
     print8(n);
     print8(n);
     print9(n);
+    print9(n);
 }
