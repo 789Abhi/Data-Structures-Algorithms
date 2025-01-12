@@ -150,4 +150,7 @@ int main()
     print9(n);
     print9(n);
     print9(n);
+    print9(n);
+    print9(n);
+    print9(n);
 }
